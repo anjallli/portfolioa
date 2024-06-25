@@ -1,0 +1,30 @@
+.img1 {
+    transition: transform .3s; /* Animation */
+  }
+
+  .img1:hover {
+    transform: scale(1.3); /* (150% zoom) */
+  }
+
+  #cvbutton{
+    transition: transform .3s;
+  }
+
+  #cvbutton:hover{
+    transform: scale(1.5);
+  }
+
+  #submitbtn{
+    text-align: center;
+  }
+
+  a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: hotpink;
+  }
+
+ 
